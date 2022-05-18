@@ -1,1 +1,1 @@
-# JuegoDelPastor puqueño juego de consola sobre un juego realizado por pastores donde las reglas son quitar piedras de filas de piedras entre 1 y la totalidad de piedras en la fila.
+# JuegoDelPastor is a small command console game where you have a grid of "stones" and you have to take stones from 1 to all the stones on a row, and the last one to take a stone loses.
